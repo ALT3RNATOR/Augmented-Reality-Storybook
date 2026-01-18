@@ -16,7 +16,7 @@ The application is developed using **Unity** and leverages **image-based AR trac
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 - Unity Engine  
 - Vuforia Engine (Image Targets)  
 - Universal Render Pipeline (URP)  
@@ -40,5 +40,3 @@ You can download and test the latest APK from the link below:
 https://drive.google.com/drive/folders/197NdmasGurByf3bkZevRtMQWxVw2KmN1?usp=sharing
 
 ---
-
-## 📂 Project Structure
