@@ -40,3 +40,15 @@ You can download and test the latest APK from the link below:
 https://drive.google.com/drive/folders/197NdmasGurByf3bkZevRtMQWxVw2KmN1?usp=sharing
 
 ---
+
+
+## 🚀 Future Enhancements
+- Audio narration synchronized with scenes  
+- Interactive user controls  
+- Multi-language support  
+- WebAR version (no app installation)  
+
+---
+
+## 👤 Author
+**Ankit Singh**
