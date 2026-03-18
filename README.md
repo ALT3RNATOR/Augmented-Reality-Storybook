@@ -6,7 +6,7 @@ The application is developed using **Unity** and leverages **image-based AR trac
 
 ---
 
-## ✨ Features
+## ✨ Feature
 - Image-based AR page recognition  
 - AR 3D models displayed on book pages  
 - Support for front page and chapter-wise content  
