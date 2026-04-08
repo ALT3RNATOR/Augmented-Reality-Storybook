@@ -1,4 +1,4 @@
-# Augmented-Reality-Storybooks
+# Augmented-Reality-Storybook
 
 This project develops an **Augmented Reality (AR) storybook** that brings printed pages to life using a mobile application. By scanning the **front page and chapter pages** of a physical book, users can view **story-related 3D models and videos** rendered directly on top of the book, creating an immersive and interactive storytelling experience.
 
