@@ -33,7 +33,7 @@ The application is developed using **Unity** and leverages **image-based AR trac
 
 ---
 
-## 📦 APK Download
+## APK Download
 You can download and test the latest APK from the link below:
 
 🔗 **APK Link:**  
