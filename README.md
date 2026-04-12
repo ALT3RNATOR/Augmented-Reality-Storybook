@@ -6,7 +6,7 @@ The application is developed using **Unity** and leverages **image-based AR trac
 
 ---
 
-##  Features
+## Features
 - Image-based AR page recognition  
 - AR 3D models displayed on book pages  
 - Support for front page and chapter-wise content  
@@ -16,7 +16,7 @@ The application is developed using **Unity** and leverages **image-based AR trac
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Unity Engine  
 - Vuforia Engine (Image Targets)  
 - Universal Render Pipeline (URP)  
