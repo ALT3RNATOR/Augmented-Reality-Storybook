@@ -25,7 +25,7 @@ The application is developed using **Unity** and leverages **image-based AR trac
 
 ---
 
-## 📱 How It Works
+## How It Works
 1. Launch the AR Storybook application on an Android device.
 2. Scan the front page or chapter pages of the book.
 3. The corresponding 3D model or animation appears on top of the page.
