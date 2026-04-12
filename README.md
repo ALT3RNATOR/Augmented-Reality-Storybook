@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/197NdmasGurByf3bkZevRtMQWxVw2KmN1?usp=sha
 ---
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Audio narration synchronized with scenes  
 - Interactive user controls  
 - Multi-language support  
