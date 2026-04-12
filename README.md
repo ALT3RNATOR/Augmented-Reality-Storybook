@@ -48,10 +48,11 @@ https://drive.google.com/drive/folders/197NdmasGurByf3bkZevRtMQWxVw2KmN1?usp=sha
 - Multi-language support  
 - WebAR version (no app installation)  
 
----
+
 # 🔗 **Book available at:**  
 https://drive.google.com/file/d/1l3wJ0gzqmdGyZU-FtCrPQY1t2mowrGXk/view?usp=sharing
 
+---
 
 ## Author
 **Ankit Singh**
