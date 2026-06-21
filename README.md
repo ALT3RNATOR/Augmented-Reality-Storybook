@@ -2,7 +2,7 @@
 
 This project develops an **Augmented Reality (AR) storybook** that brings printed pages to life using a mobile application. By scanning the **front page and chapter pages** of a physical book, users can view **story-related 3D models and videos** rendered directly on top of the book, creating an immersive and interactive storytelling experience.
 
-The application is developed using **Unity** and leverages **image-based AR tracking** to accurately place digital content over physical pages. The latest version of the app includes **animated 3D models**, enhancing realism and user engagement.
+The application is developed using **Unity** and leverages **image-based AR tracking** to accurately place digital content over physical pages. The latest version of the app includes **animated 3D models**, enhancing realism and user engagement
 
 ---
 
